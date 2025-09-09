@@ -19,27 +19,29 @@ This project is a heart-shaped PCB that creates a realistic LED heartbeat patter
 
 <p align="center">
 Initial design phase: <br/>
-<img src="https://imgur.com/a/EMQIUlp" height="80%" width="80%" />
+<img src="https://i.imgur.com/S1fuXgu.jpeg" height="80%" width="80%" />
 <br />
 <br />
 Kicad Schematic:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a4hvImm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Kicad PCB editor: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0SgaUdU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Soldering:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Z8v0a9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/yjZjBKP.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Assembly:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/usIuS5g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LcTKmo1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Final Product:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fo3h6BC.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
