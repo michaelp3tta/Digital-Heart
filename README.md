@@ -19,7 +19,7 @@ This project is a heart-shaped PCB that creates a realistic LED heartbeat patter
 
 <p align="center">
 Initial design phase: <br/>
-<img src="https://imgur.com/a/8406td2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/EMQIUlp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Kicad Schematic:  <br/>
